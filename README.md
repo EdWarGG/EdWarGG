@@ -32,13 +32,12 @@
 ### Otros:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+<!-- 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=EdWarGG&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=EdWarGG&theme=radical&hide_border=false)<br/>
-
+ -->
 
 ## Info. de contacto 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwar-gonzalez)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edwarglezglez@gmail.com) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
